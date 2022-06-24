@@ -1,0 +1,35 @@
+.conteneur{
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+}
+.img{
+    width: 40%;
+    height: 400px;
+    padding-right:30px;
+    padding-left: 90px;
+    box-sizing: border-box;
+    margin-left: 150px;
+}
+.form{
+    width: 40%;
+    height: 400px;
+    border: 1px solid black;
+    padding: 20px 40px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.img img{
+    width: 400px;
+    height: 400px;
+}
+p{
+    line-height: 30px;
+}
+.par{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+    text-decoration: underline;
+}
